@@ -1,0 +1,25 @@
+{
+  "name": "p_app",
+  "version": "1.0.0",
+  "description": "my practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parizat58/node.js_app_setup.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "pari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parizat58/node.js_app_setup/issues"
+  },
+  "homepage": "https://github.com/Parizat58/node.js_app_setup#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
